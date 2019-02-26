@@ -1,4 +1,4 @@
-package com.amphisoft.codeQuality;
+package com.amphisoft.unitTest;
 
 public class User {
 	private String username;

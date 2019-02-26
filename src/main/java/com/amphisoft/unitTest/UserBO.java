@@ -1,4 +1,4 @@
-package com.amphisoft.codeQuality;
+package com.amphisoft.unitTest;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
