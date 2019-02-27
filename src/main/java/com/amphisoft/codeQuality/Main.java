@@ -23,6 +23,10 @@ public class Main {
 		}while(user.getEmail() == null);
         System.out.println("User details:");
         System.out.println(user);
+        System.out.println("User details:");
+        System.out.println(user);
+        System.out.println("User details:");
+        System.out.println(user);
         try {
 			
 		} catch (Exception e) {
