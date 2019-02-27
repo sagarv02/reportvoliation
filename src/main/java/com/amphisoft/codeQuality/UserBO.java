@@ -2,6 +2,8 @@ package com.amphisoft.codeQuality;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+import java.util.Scanner;
+import java.util.Scanner;
 
 public class UserBO {
 	public boolean validateEmail(String email) {
