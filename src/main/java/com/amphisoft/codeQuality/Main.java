@@ -1,4 +1,4 @@
-package com.amphisoft.unitTest;
+package com.amphisoft.codeQuality;
 
 import java.util.Scanner;
 import java.util.Scanner;
